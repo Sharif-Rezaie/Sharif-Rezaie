@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharif Rezaie
-- 👀 I’m interested in cloud and devops
+- 👀 I’m interested in cloud and DevOps
 - 🌱 I’m currently learning k8s
 
 <!---
