@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sharif-Rezaie.Sharif-Rezaie" style="max-width:100%;">
 
   ### Hello! 👋
   
